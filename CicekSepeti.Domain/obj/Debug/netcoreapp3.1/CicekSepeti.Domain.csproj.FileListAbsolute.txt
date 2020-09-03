@@ -1,0 +1,9 @@
+C:\Users\tayfun.bolat\source\repos\CicekSepetiSolution\CicekSepeti.Domain\bin\Debug\netcoreapp3.1\CicekSepeti.Domain.deps.json
+C:\Users\tayfun.bolat\source\repos\CicekSepetiSolution\CicekSepeti.Domain\bin\Debug\netcoreapp3.1\CicekSepeti.Domain.dll
+C:\Users\tayfun.bolat\source\repos\CicekSepetiSolution\CicekSepeti.Domain\bin\Debug\netcoreapp3.1\CicekSepeti.Domain.pdb
+C:\Users\tayfun.bolat\source\repos\CicekSepetiSolution\CicekSepeti.Domain\obj\Debug\netcoreapp3.1\CicekSepeti.Domain.csprojAssemblyReference.cache
+C:\Users\tayfun.bolat\source\repos\CicekSepetiSolution\CicekSepeti.Domain\obj\Debug\netcoreapp3.1\CicekSepeti.Domain.AssemblyInfoInputs.cache
+C:\Users\tayfun.bolat\source\repos\CicekSepetiSolution\CicekSepeti.Domain\obj\Debug\netcoreapp3.1\CicekSepeti.Domain.AssemblyInfo.cs
+C:\Users\tayfun.bolat\source\repos\CicekSepetiSolution\CicekSepeti.Domain\obj\Debug\netcoreapp3.1\CicekSepeti.Domain.csproj.CoreCompileInputs.cache
+C:\Users\tayfun.bolat\source\repos\CicekSepetiSolution\CicekSepeti.Domain\obj\Debug\netcoreapp3.1\CicekSepeti.Domain.dll
+C:\Users\tayfun.bolat\source\repos\CicekSepetiSolution\CicekSepeti.Domain\obj\Debug\netcoreapp3.1\CicekSepeti.Domain.pdb

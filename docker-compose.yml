@@ -1,0 +1,36 @@
+version: '3.4'
+
+services:
+
+  mongo:
+    container_name: mongo
+    image: mongo
+    restart: always
+    volumes:
+      - ${WEBAPP_STORAGE_HOME}/site:/data/db
+      #- ./data:/data/db
+    ports:
+      - "27017:27017"
+
+redis_image:
+     image: redis
+     container_name: cache
+     ports:
+     - "6379:6379"
+
+
+ciceksepetiapi:
+    build:
+    context: .
+    dockerfile: DockerFile
+    ports: 
+      -"5101:80"
+    depends_on:
+      - mongo
+      - redis_image
+    volumes:
+    - ${HOME}/.microsoft/usersecrets/:/root/.microsoft/usersecrets
+    - ${HOME}/.aspnet/https:/root/.aspnet/https/
+    links:
+     - mongo
+     - redis_image

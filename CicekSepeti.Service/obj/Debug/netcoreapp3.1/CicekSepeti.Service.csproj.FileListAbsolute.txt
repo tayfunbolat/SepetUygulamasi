@@ -1,0 +1,16 @@
+C:\Users\tayfun.bolat\source\repos\CicekSepetiSolution\CicekSepeti.Service\bin\Debug\netcoreapp3.1\CicekSepeti.Service.deps.json
+C:\Users\tayfun.bolat\source\repos\CicekSepetiSolution\CicekSepeti.Service\bin\Debug\netcoreapp3.1\CicekSepeti.Service.dll
+C:\Users\tayfun.bolat\source\repos\CicekSepetiSolution\CicekSepeti.Service\bin\Debug\netcoreapp3.1\CicekSepeti.Service.pdb
+C:\Users\tayfun.bolat\source\repos\CicekSepetiSolution\CicekSepeti.Service\bin\Debug\netcoreapp3.1\CicekSepeti.Domain.dll
+C:\Users\tayfun.bolat\source\repos\CicekSepetiSolution\CicekSepeti.Service\bin\Debug\netcoreapp3.1\CicekSepeti.Repository.dll
+C:\Users\tayfun.bolat\source\repos\CicekSepetiSolution\CicekSepeti.Service\bin\Debug\netcoreapp3.1\Common.Api.dll
+C:\Users\tayfun.bolat\source\repos\CicekSepetiSolution\CicekSepeti.Service\bin\Debug\netcoreapp3.1\CicekSepeti.Repository.pdb
+C:\Users\tayfun.bolat\source\repos\CicekSepetiSolution\CicekSepeti.Service\bin\Debug\netcoreapp3.1\CicekSepeti.Domain.pdb
+C:\Users\tayfun.bolat\source\repos\CicekSepetiSolution\CicekSepeti.Service\bin\Debug\netcoreapp3.1\Common.Api.pdb
+C:\Users\tayfun.bolat\source\repos\CicekSepetiSolution\CicekSepeti.Service\obj\Debug\netcoreapp3.1\CicekSepeti.Service.csprojAssemblyReference.cache
+C:\Users\tayfun.bolat\source\repos\CicekSepetiSolution\CicekSepeti.Service\obj\Debug\netcoreapp3.1\CicekSepeti.Service.AssemblyInfoInputs.cache
+C:\Users\tayfun.bolat\source\repos\CicekSepetiSolution\CicekSepeti.Service\obj\Debug\netcoreapp3.1\CicekSepeti.Service.AssemblyInfo.cs
+C:\Users\tayfun.bolat\source\repos\CicekSepetiSolution\CicekSepeti.Service\obj\Debug\netcoreapp3.1\CicekSepeti.Service.csproj.CoreCompileInputs.cache
+C:\Users\tayfun.bolat\source\repos\CicekSepetiSolution\CicekSepeti.Service\obj\Debug\netcoreapp3.1\CicekSepeti.Service.csproj.CopyComplete
+C:\Users\tayfun.bolat\source\repos\CicekSepetiSolution\CicekSepeti.Service\obj\Debug\netcoreapp3.1\CicekSepeti.Service.dll
+C:\Users\tayfun.bolat\source\repos\CicekSepetiSolution\CicekSepeti.Service\obj\Debug\netcoreapp3.1\CicekSepeti.Service.pdb

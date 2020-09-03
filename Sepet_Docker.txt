@@ -1,0 +1,7 @@
+docker build -t sepet .
+docker run -d --name sepetcontainer -p 44382:80 sepet
+
+docker run -d --name redisDev -p 6379:6379 redis
+docker run -d --name mongoDev -p 27017:27017 mongo
+
+

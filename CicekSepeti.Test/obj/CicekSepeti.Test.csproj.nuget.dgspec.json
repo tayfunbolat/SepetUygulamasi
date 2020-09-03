@@ -1,0 +1,373 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\tayfun.bolat\\source\\repos\\CicekSepetiSolution\\CicekSepeti.Test\\CicekSepeti.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\tayfun.bolat\\source\\repos\\CicekSepetiSolution\\CicekSepeti.Domain\\CicekSepeti.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tayfun.bolat\\source\\repos\\CicekSepetiSolution\\CicekSepeti.Domain\\CicekSepeti.Domain.csproj",
+        "projectName": "CicekSepeti.Domain",
+        "projectPath": "C:\\Users\\tayfun.bolat\\source\\repos\\CicekSepetiSolution\\CicekSepeti.Domain\\CicekSepeti.Domain.csproj",
+        "packagesPath": "C:\\Users\\tayfun.bolat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tayfun.bolat\\source\\repos\\CicekSepetiSolution\\CicekSepeti.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tayfun.bolat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.11.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tayfun.bolat\\source\\repos\\CicekSepetiSolution\\CicekSepeti.Repository\\CicekSepeti.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tayfun.bolat\\source\\repos\\CicekSepetiSolution\\CicekSepeti.Repository\\CicekSepeti.Repository.csproj",
+        "projectName": "CicekSepeti.Repository",
+        "projectPath": "C:\\Users\\tayfun.bolat\\source\\repos\\CicekSepetiSolution\\CicekSepeti.Repository\\CicekSepeti.Repository.csproj",
+        "packagesPath": "C:\\Users\\tayfun.bolat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tayfun.bolat\\source\\repos\\CicekSepetiSolution\\CicekSepeti.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tayfun.bolat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\tayfun.bolat\\source\\repos\\CicekSepetiSolution\\CicekSepeti.Domain\\CicekSepeti.Domain.csproj": {
+                "projectPath": "C:\\Users\\tayfun.bolat\\source\\repos\\CicekSepetiSolution\\CicekSepeti.Domain\\CicekSepeti.Domain.csproj"
+              },
+              "C:\\Users\\tayfun.bolat\\source\\repos\\CicekSepetiSolution\\Common.Api\\Common.Api.csproj": {
+                "projectPath": "C:\\Users\\tayfun.bolat\\source\\repos\\CicekSepetiSolution\\Common.Api\\Common.Api.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.11.0, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.1.58, )"
+            },
+            "System.Linq.Expressions": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tayfun.bolat\\source\\repos\\CicekSepetiSolution\\CicekSepeti.Service\\CicekSepeti.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tayfun.bolat\\source\\repos\\CicekSepetiSolution\\CicekSepeti.Service\\CicekSepeti.Service.csproj",
+        "projectName": "CicekSepeti.Service",
+        "projectPath": "C:\\Users\\tayfun.bolat\\source\\repos\\CicekSepetiSolution\\CicekSepeti.Service\\CicekSepeti.Service.csproj",
+        "packagesPath": "C:\\Users\\tayfun.bolat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tayfun.bolat\\source\\repos\\CicekSepetiSolution\\CicekSepeti.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tayfun.bolat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\tayfun.bolat\\source\\repos\\CicekSepetiSolution\\CicekSepeti.Repository\\CicekSepeti.Repository.csproj": {
+                "projectPath": "C:\\Users\\tayfun.bolat\\source\\repos\\CicekSepetiSolution\\CicekSepeti.Repository\\CicekSepeti.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tayfun.bolat\\source\\repos\\CicekSepetiSolution\\CicekSepeti.Test\\CicekSepeti.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tayfun.bolat\\source\\repos\\CicekSepetiSolution\\CicekSepeti.Test\\CicekSepeti.Test.csproj",
+        "projectName": "CicekSepeti.Test",
+        "projectPath": "C:\\Users\\tayfun.bolat\\source\\repos\\CicekSepetiSolution\\CicekSepeti.Test\\CicekSepeti.Test.csproj",
+        "packagesPath": "C:\\Users\\tayfun.bolat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tayfun.bolat\\source\\repos\\CicekSepetiSolution\\CicekSepeti.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tayfun.bolat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\tayfun.bolat\\source\\repos\\CicekSepetiSolution\\CicekSepeti.Repository\\CicekSepeti.Repository.csproj": {
+                "projectPath": "C:\\Users\\tayfun.bolat\\source\\repos\\CicekSepetiSolution\\CicekSepeti.Repository\\CicekSepeti.Repository.csproj"
+              },
+              "C:\\Users\\tayfun.bolat\\source\\repos\\CicekSepetiSolution\\CicekSepeti.Service\\CicekSepeti.Service.csproj": {
+                "projectPath": "C:\\Users\\tayfun.bolat\\source\\repos\\CicekSepetiSolution\\CicekSepeti.Service\\CicekSepeti.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoFixture": {
+              "target": "Package",
+              "version": "[4.13.0, )"
+            },
+            "AutoFixture.AutoMoq": {
+              "target": "Package",
+              "version": "[4.13.0, )"
+            },
+            "AutoFixture.Xunit2": {
+              "target": "Package",
+              "version": "[4.13.0, )"
+            },
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[5.10.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.14.5, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tayfun.bolat\\source\\repos\\CicekSepetiSolution\\Common.Api\\Common.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tayfun.bolat\\source\\repos\\CicekSepetiSolution\\Common.Api\\Common.Api.csproj",
+        "projectName": "Common.Api",
+        "projectPath": "C:\\Users\\tayfun.bolat\\source\\repos\\CicekSepetiSolution\\Common.Api\\Common.Api.csproj",
+        "packagesPath": "C:\\Users\\tayfun.bolat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tayfun.bolat\\source\\repos\\CicekSepetiSolution\\Common.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tayfun.bolat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

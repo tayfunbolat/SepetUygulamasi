@@ -1,0 +1,9 @@
+C:\Users\tayfun.bolat\source\repos\CicekSepetiSolution\Common.Api\bin\Debug\netcoreapp3.1\Common.Api.deps.json
+C:\Users\tayfun.bolat\source\repos\CicekSepetiSolution\Common.Api\bin\Debug\netcoreapp3.1\Common.Api.dll
+C:\Users\tayfun.bolat\source\repos\CicekSepetiSolution\Common.Api\bin\Debug\netcoreapp3.1\Common.Api.pdb
+C:\Users\tayfun.bolat\source\repos\CicekSepetiSolution\Common.Api\obj\Debug\netcoreapp3.1\Common.Api.csprojAssemblyReference.cache
+C:\Users\tayfun.bolat\source\repos\CicekSepetiSolution\Common.Api\obj\Debug\netcoreapp3.1\Common.Api.AssemblyInfoInputs.cache
+C:\Users\tayfun.bolat\source\repos\CicekSepetiSolution\Common.Api\obj\Debug\netcoreapp3.1\Common.Api.AssemblyInfo.cs
+C:\Users\tayfun.bolat\source\repos\CicekSepetiSolution\Common.Api\obj\Debug\netcoreapp3.1\Common.Api.csproj.CoreCompileInputs.cache
+C:\Users\tayfun.bolat\source\repos\CicekSepetiSolution\Common.Api\obj\Debug\netcoreapp3.1\Common.Api.dll
+C:\Users\tayfun.bolat\source\repos\CicekSepetiSolution\Common.Api\obj\Debug\netcoreapp3.1\Common.Api.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SbVwhmBqh48XGQ3ab/CWwsxrDZkursX6Lhl3S8wCDi/fziGyT+7lVRkykfDa115RBkWUACgiofQoCtBc/07kCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tayfun.bolat\\source\\repos\\CicekSepetiSolution\\CicekSepeti.Domain\\CicekSepeti.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tayfun.bolat\\.nuget\\packages\\mongodb.bson\\2.11.0\\mongodb.bson.2.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}
